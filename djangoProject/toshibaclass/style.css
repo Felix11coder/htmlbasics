@@ -1,0 +1,33 @@
+.fruits{
+    border: 2px solid aquamarine;
+    background-color: #d6d6d6;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: beige;
+}
+.comp{
+    background-color: #5acc5a;
+    border: #911616 solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #c800ff;
+}
+.lapt{
+    border: 2px solid white;
+}
+.dst{
+    border: 2px dotted blue;
+}
+#house{
+    background-color: #5acc5a;
+    border: #911616 solid 2px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #c800ff;
+}
+body{
+    background-image: url("assets/images/mango.png");
+}
